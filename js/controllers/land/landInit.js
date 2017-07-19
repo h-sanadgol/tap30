@@ -13,7 +13,7 @@ App.factory("landInit", function ($rootScope) {
 								"saturation": 36
 							},
 							{
-								"color": "#000000"
+								"color": "#00ff00"
 							},
 							{
 								"lightness": 40
@@ -28,7 +28,7 @@ App.factory("landInit", function ($rootScope) {
 								"visibility": "on"
 							},
 							{
-								"color": "#000000"
+								"color": "#0000ff"
 							},
 							{
 								"lightness": 16
@@ -139,7 +139,7 @@ App.factory("landInit", function ($rootScope) {
 						"elementType": "geometry",
 						"stylers": [
 							{
-								"color": "#000000"
+								"color": "#ff0000"
 							},
 							{
 								"lightness": 16
