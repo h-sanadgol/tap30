@@ -43,6 +43,6 @@ function initialize() {
     mapOptions);
 
   //Associate the styled map with the MapTypeId and set it to display.
-  map.mapTypes.set('map_style', styledMap);
-  map.setMapTypeId('map_style');
+  //map.mapTypes.set('map_style', styledMap);
+  //map.setMapTypeId('map_style');
 }
